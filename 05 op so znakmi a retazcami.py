@@ -46,3 +46,19 @@ print("A\nB")
 
 # Otázka 4 (trochu ťažšia 😎)
 print(3 * "A" + "B")
+
+# output:
+# Ahoj svet
+# Ahoj Ahoj Ahoj
+# Ahoj
+# Ahoj
+# Ahoj
+#
+# Ahoj svet, ako sa máš
+# Ahoj svet,
+# ako sa máš
+# Python
+# Hi Hi
+# A
+# B
+# AAAB
