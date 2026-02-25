@@ -33,3 +33,16 @@ print("Ahoj svet, \nako sa máš")
 # Ahoj svet, ako sa máš
 # Ahoj svet,
 # ako sa máš
+
+# gpt cv:
+# Otázka 1
+print("Py" + "thon")
+
+# Otázka 2
+print(2 * "Hi ")
+
+# Otázka 3
+print("A\nB")
+
+# Otázka 4 (trochu ťažšia 😎)
+print(3 * "A" + "B")
